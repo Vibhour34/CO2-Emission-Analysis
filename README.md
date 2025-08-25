@@ -54,7 +54,4 @@ The notebook includes:
 - 📊 **Bar Charts** → CO2 emissions by car make  
 - ⚡ **Scatter Plots** → Engine size vs CO2 emissions  
 - 📦 **Box Plots** → CO2 emissions by vehicle class  
-- 📉 **Line Charts** → Fuel consumption trends  
-
-   git clone https://github.com/your-username/CO2-Emissions-EDA.git
-   cd CO2-Emissions-EDA
+- 📉 **Line Charts** → Fuel consumption trends
